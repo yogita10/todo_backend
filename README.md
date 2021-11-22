@@ -6,8 +6,10 @@
 npm install
 ```
 # Install the dependies by 
-npm i express mongoose ejs
 
+````
+npm i express mongoose ejs
+````
 # Now start the server by typing the following command
 
 ```
